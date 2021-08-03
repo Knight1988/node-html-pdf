@@ -9,6 +9,7 @@
 ## Changelog
 
 Have a look at the releases page: https://github.com/marcbachmann/node-html-pdf/releases
+This version remove phantomjs-prebuild dependency
 
 ## Installation
 

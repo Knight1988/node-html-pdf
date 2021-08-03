@@ -1,5 +1,5 @@
 {
-  "name": "html-pdf",
+  "name": "@dragon-knight/html-pdf",
   "version": "3.0.1",
   "description": "HTML to PDF converter that uses phantomjs",
   "engines": {
@@ -22,9 +22,6 @@
     "standard": "^5.1.1",
     "tap-spec": "^5.0.0",
     "tape": "^5.2.2"
-  },
-  "optionalDependencies": {
-    "phantomjs-prebuilt": "^2.1.16"
   },
   "repository": {
     "type": "git",
