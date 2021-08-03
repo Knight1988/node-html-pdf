@@ -13,12 +13,12 @@
     "html-pdf": "bin/index.js"
   },
   "scripts": {
-    "test": "standard && tape test/index.js examples/*/test.js"
+    "test": "standard && tape test/index.js examples/*/test.js",
+    "deploy": "npm publish --access public"
   },
   "author": "Marc Bachmann",
   "license": "MIT",
   "devDependencies": {
-    "phantomjs-prebuilt": "^2.1.16",
     "standard": "^5.1.1",
     "tap-spec": "^5.0.0",
     "tape": "^5.2.2"
@@ -35,7 +35,7 @@
     "nodejs"
   ],
   "bugs": {
-    "url": "https://github.com/marcbachmann/node-html-pdf/issues"
+    "url": "https://github.com/Knight1988/node-html-pdf/issues"
   },
-  "homepage": "https://github.com/marcbachmann/node-html-pdf"
+  "homepage": "https://github.com/Knight1988/node-html-pdf"
 }
