@@ -1,3 +1,4 @@
 *.pdf
 !examples/businesscard.pdf
 node_modules
+/.idea/
